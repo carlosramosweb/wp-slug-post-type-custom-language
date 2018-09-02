@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Slug Post Type Custom Language v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-26 20:44:46+0000\n"
+"Last-Translator: Carlos Ramos <carlosramosweb@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: inc/edit-custom-slug-language.php:43
+#: inc/list-custom-slug-language.php:36
+#: inc/new-custom-slug-language.php:38
+#: wp-slug-post-type-custom-language.php:0
+#@ crrq_load_plugin_textdomain
+msgid "WP Slug Post Type Custom Language"
+msgstr "WP Slug Post Type Custom Language"
+
+#: inc/edit-custom-slug-language.php:45
+#: inc/edit-custom-slug-language.php:142
+#: inc/new-custom-slug-language.php:40
+#@ crrq_load_plugin_textdomain
+msgid "Back to list"
+msgstr "Voltar à lista"
+
+#: inc/edit-custom-slug-language.php:52
+#@ crrq_load_plugin_textdomain
+msgid "The item has been successfully edited!"
+msgstr "O item foi editado com sucesso !"
+
+#: inc/edit-custom-slug-language.php:55
+#: inc/list-custom-slug-language.php:44
+#: inc/new-custom-slug-language.php:50
+#@ crrq_load_plugin_textdomain
+msgid "Dismiss this notice."
+msgstr "Descartar essa notificação."
+
+#: inc/edit-custom-slug-language.php:60
+#: inc/edit-custom-slug-language.php:74
+#@ crrq_load_plugin_textdomain
+msgid "Edit Slug Language"
+msgstr "Editar Slug Idioma"
+
+#: inc/edit-custom-slug-language.php:63
+#: inc/list-custom-slug-language.php:66
+#: inc/new-custom-slug-language.php:58
+#@ crrq_load_plugin_textdomain
+msgid "Set by assigning a language for an item and typing your new slug.<br/> <strong>Rules:</strong> If <strong>Language</strong> ​​is equal to <strong>Post Type</strong> the then <strong>Slug</strong> will... <strong>(Languages == Post Type => Slug)</strong>"
+msgstr "Definir pela atribuição de um idioma para um item e digitar sua nova slug <br/><strong>Regras: </strong> Se <strong>Idioma</strong> é igual a <strong>Post Type</strong> o então <strong>Slug</strong> será... <strong> ( Idiomas == Post Type => Slug )</strong>"
+
+#: inc/edit-custom-slug-language.php:80
+#: inc/list-custom-slug-language.php:87
+#: inc/list-custom-slug-language.php:129
+#: inc/new-custom-slug-language.php:72
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Languages</strong>"
+msgstr "<strong>Idiomas</strong>"
+
+#: inc/edit-custom-slug-language.php:92
+#: inc/new-custom-slug-language.php:83
+#@ crrq_load_plugin_textdomain
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/edit-custom-slug-language.php:101
+#: inc/new-custom-slug-language.php:92
+#@ crrq_load_plugin_textdomain
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/edit-custom-slug-language.php:111
+#: inc/list-custom-slug-language.php:88
+#: inc/list-custom-slug-language.php:130
+#: inc/new-custom-slug-language.php:103
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Post Type</strong>"
+msgstr "<strong>Post Type</strong>"
+
+#: inc/edit-custom-slug-language.php:129
+#: inc/list-custom-slug-language.php:89
+#: inc/list-custom-slug-language.php:131
+#: inc/new-custom-slug-language.php:123
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Slug Post Type</strong>"
+msgstr "<strong>Slug Post Type</strong>"
+
+#: inc/edit-custom-slug-language.php:130
+#: inc/new-custom-slug-language.php:126
+#: wp-slug-post-type-custom-language.php:77
+#: wp-slug-post-type-custom-language.php:78
+#: wp-slug-post-type-custom-language.php:85
+#: wp-slug-post-type-custom-language.php:86
+#: wp-slug-post-type-custom-language.php:93
+#: wp-slug-post-type-custom-language.php:94
+#@ crrq_load_plugin_textdomain
+msgid "Slug Language"
+msgstr "Slug Idioma"
+
+#: inc/edit-custom-slug-language.php:138
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Notice:</strong> There is not configured with this item id."
+msgstr "<strong>Aviso:</strong> Não tem item configurado com esse ID."
+
+#: inc/footer-slug-language.php:4
+#@ crrq_load_plugin_textdomain
+msgid "If you like the plugin and it served you help us with donation of any amount to keep them up to date."
+msgstr "Se você gostou do plugin e que lhe serviu, nos ajudar com doação de qualquer valor para mantê-los atualizados."
+
+#: inc/footer-slug-language.php:6
+#@ crrq_load_plugin_textdomain
+msgid "donate now"
+msgstr "Doe agora"
+
+#: inc/list-custom-slug-language.php:41
+#@ crrq_load_plugin_textdomain
+msgid "The item was deleted successfully!"
+msgstr "O item foi excluído com sucesso!"
+
+#: inc/list-custom-slug-language.php:50
+#: wp-slug-post-type-custom-language.php:57
+#@ crrq_load_plugin_textdomain
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/list-custom-slug-language.php:52
+#@ crrq_load_plugin_textdomain
+msgid "Donate"
+msgstr "Doação"
+
+#: inc/list-custom-slug-language.php:58
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Notice:</strong> Plugin does not have configured item."
+msgstr "<strong>Aviso:</strong> Plugin não tem item configurado."
+
+#: inc/list-custom-slug-language.php:63
+#@ crrq_load_plugin_textdomain
+msgid "Add new language"
+msgstr "Adicionar novo idioma"
+
+#: inc/list-custom-slug-language.php:86
+#: inc/list-custom-slug-language.php:128
+#@ crrq_load_plugin_textdomain
+msgid "<strong>ID</strong>"
+msgstr "<strong>ID</strong>"
+
+#: inc/list-custom-slug-language.php:90
+#: inc/list-custom-slug-language.php:132
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Slug Original</strong>"
+msgstr "<strong>Slug Original</strong>"
+
+#: inc/list-custom-slug-language.php:91
+#: inc/list-custom-slug-language.php:133
+#@ crrq_load_plugin_textdomain
+msgid "<strong>Action</strong>"
+msgstr "<strong>Ação</strong>"
+
+#: inc/list-custom-slug-language.php:98
+#@ crrq_load_plugin_textdomain
+msgid "No items were found."
+msgstr "Nenhum item foi encontrado."
+
+#: inc/list-custom-slug-language.php:115
+#@ crrq_load_plugin_textdomain
+msgid "Undefined"
+msgstr "Indefinido"
+
+#: inc/list-custom-slug-language.php:117
+#@ crrq_load_plugin_textdomain
+msgid "Delete"
+msgstr "Apagar"
+
+#: inc/list-custom-slug-language.php:119
+#@ crrq_load_plugin_textdomain
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/list-custom-slug-language.php:139
+#@ crrq_load_plugin_textdomain
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: inc/new-custom-slug-language.php:47
+#@ crrq_load_plugin_textdomain
+msgid "The item has been successfully added!"
+msgstr "O item foi adicionado com sucesso!"
+
+#: inc/new-custom-slug-language.php:55
+#: inc/new-custom-slug-language.php:67
+#@ crrq_load_plugin_textdomain
+msgid "New Slug Language"
+msgstr "Novo Slug Idioma"
+
+#. translators: plugin header field 'PluginURI'
+#: wp-slug-post-type-custom-language.php:0
+#@ crrq_load_plugin_textdomain
+msgid "https://wordpress.org/plugins/wp-slug-post-type-custom-language/"
+msgstr "https://wordpress.org/plugins/wp-slug-post-type-custom-language/"
+
+#. translators: plugin header field 'Description'
+#: wp-slug-post-type-custom-language.php:0
+#@ crrq_load_plugin_textdomain
+msgid "Change the slug of your post type relative to the desired language."
+msgstr "Alterar a lesma do seu tipo de pós em relação ao idioma desejado."
+
+#. translators: plugin header field 'Author'
+#: wp-slug-post-type-custom-language.php:0
+#@ crrq_load_plugin_textdomain
+msgid "carlosramosweb"
+msgstr "carlosramosweb"
+
+#. translators: plugin header field 'AuthorURI'
+#: wp-slug-post-type-custom-language.php:0
+#@ crrq_load_plugin_textdomain
+msgid "http://plugins.criacaocriativa.com.br/"
+msgstr "http://plugins.criacaocriativa.com.br/"
+
+#. translators: plugin header field 'Version'
+#: wp-slug-post-type-custom-language.php:0
+#@ crrq_load_plugin_textdomain
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: inc/list-custom-slug-language.php:72
+#@ crrq_load_plugin_textdomain
+msgid "All"
+msgstr "Todos"
+
+#: inc/list-custom-slug-language.php:78
+#@ crrq_load_plugin_textdomain
+msgid "Published"
+msgstr "Publicados"
+
+#: wp-slug-post-type-custom-language.php:57
+#@ crrq_load_plugin_textdomain
+msgid "Plugin Settings"
+msgstr "Configurar o Plugin"
+
